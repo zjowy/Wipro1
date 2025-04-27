@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 categories = ["Food", "Housing", "Entertainment", "Transportation", "Utilities", "Others"]
 
 # تخزين البيانات
-data = {conda install matplotlib
+data = {
 
     "Date": [],
     "Category": [],
